@@ -6,8 +6,9 @@ import os
 app = Flask(__name__)
 
 # Loading the saved model and scaler
-model_path = os.path.join("..", "model", "final_model.pkl")
-scaler_path = os.path.join("..", "model", "scaler.pkl")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # Go up 2 levels
+model_path = os.path.join(BASE_DIR, "model", "final_model.pkl")
+scaler_path = os.path.join(BASE_DIR, "model", "scaler.pkl")
 
 with open(model_path, 'rb') as f:
     model = pickle.load(f)

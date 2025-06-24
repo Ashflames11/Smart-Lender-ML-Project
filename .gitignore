@@ -17,12 +17,6 @@ ENV/
 5. Project Executable Files/venv/
 
 # ========================
-# Model Artifacts (optional)
-# Comment out if you want to keep .pkl files tracked
-*.pkl
-*.joblib
-
-# ========================
 # Logs & Output
 # ========================
 *.log

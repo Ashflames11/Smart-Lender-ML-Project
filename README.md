@@ -4,7 +4,7 @@ Smart Lender is an Machine Learning based web application that predicts whether 
 
 ## 🔗 Website Link
 
-**[Click here!]()**
+**[Click here!](https://smart-lender.onrender.com)**
 
 ## 🔍 Features
 
@@ -73,7 +73,7 @@ The application uses a **Random Forest Classifier**, chosen for its:
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone `https://github.com/YashChugani/Smart-Lender-ML-Project`
    cd Project/app
    ```
 
