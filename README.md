@@ -6,6 +6,7 @@ Smart Lender is an Machine Learning based web application that predicts whether 
 ## 🔗 Website Link
 
 **[Click here to visit the Smart Lender web app!](https://smart-lender.onrender.com)**
+
 ⚠️ Note: Website may take 50–60 seconds to load on the first request as it’s hosted on Render’s free tier.
 
 
@@ -133,10 +134,12 @@ This project is for educational purposes only and protected under MIT License.
 ## 👥 Project Contributors
 
 **Team Lead:**
-Yash Chugani   *[GitHub]*(https://github.com/YashChugani) - *[LinkedIn]*(https://www.linkedin.com/in/yash-chugani)
+Yash Chugani   *[GitHub](https://github.com/YashChugani) • [LinkedIn](https://www.linkedin.com/in/yash-chugani)*
 
 **Other Team Members:**
-Aashish Kumar Mandhyani   *[GitHub]*(https://github.com/Ashflames11) - *[LinkedIn]*(https://www.linkedin.com/in/aashish-mandhyani-2394b5261)
-Yash Dharad   *[GitHub]*(https://github.com/yash050205) - *[LinkedIn]*(https://www.linkedin.com/in/yash-dharad-49430928b)
+
+Aashish Kumar Mandhyani   *[GitHub](https://github.com/Ashflames11) • [LinkedIn](https://www.linkedin.com/in/aashish-mandhyani-2394b5261)*
+
+Yash Dharad   *[GitHub](https://github.com/yash050205) • [LinkedIn](https://www.linkedin.com/in/yash-dharad-49430928b)*
 
 🛠 This project was developed under the Machine Learning course by SmartBridge.
