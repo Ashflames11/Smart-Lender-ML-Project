@@ -2,9 +2,12 @@
 
 Smart Lender is an Machine Learning based web application that predicts whether a loan application is likely to be approved or rejected based on user-inputted financial and demographic details. It combines machine learning with a sleek user interface to provide real-time, reliable insights for applicants and lenders alike.
 
+
 ## 🔗 Website Link
 
-**[Click here!](https://smart-lender.onrender.com)**
+**[Click here to visit the Smart Lender web app!](https://smart-lender.onrender.com)**
+⚠️ Note: Website may take 50–60 seconds to load on the first request as it’s hosted on Render’s free tier.
+
 
 ## 🔍 Features
 
@@ -13,6 +16,7 @@ Smart Lender is an Machine Learning based web application that predicts whether 
 - Flask-based backend integration
 - Dynamic result display for approved or rejected applications
 - Consistent and user-friendly interface
+
 
 ## 🧠 Model Information
 
@@ -28,6 +32,7 @@ The application uses a **Random Forest Classifier**, chosen for its:
 > - Accuracy: **0.8125**  
 > - Cross-validation Accuracy: **0.8107**  
 
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS (modern minimal design), JavaScript
@@ -35,6 +40,7 @@ The application uses a **Random Forest Classifier**, chosen for its:
 - **ML Libraries**: Scikit-learn, NumPy, Pandas
 - **Model**: RandomForestClassifier with Hyperparameter Tuning
 - **Deployment**: Runs locally via Flask, hosted using like Render
+
 
 ## 📁 Project Structure
 
@@ -69,6 +75,7 @@ The application uses a **Random Forest Classifier**, chosen for its:
 └── README.md
 ```
 
+
 ## 🚀 How to Run Locally
 
 1. **Clone the repository**:
@@ -95,6 +102,7 @@ The application uses a **Random Forest Classifier**, chosen for its:
 
 5. Open `http://127.0.0.1:5000/` in your browser.
 
+
 ## ✅ Inputs Used for Prediction
 
 - Gender
@@ -108,17 +116,27 @@ The application uses a **Random Forest Classifier**, chosen for its:
 - Credit History
 - Property Area
 
+
 ## 📌 Notes
 
 - The ML model uses one-hot encoding and scaling for preprocessing.
 - Make sure model files (`.pkl`) are in the correct path (`../model/` relative to app.py).
 - Static assets and CSS are shared across all pages.
 
+
 ## 📄 License
 
-This project is for educational purposes only. All rights reserved.
+This project is for educational purposes only and protected under MIT License.
+© All rights reserved by the contributors.
 
-## 🙌 Credits
 
-Developed by [Yash Chugani](https://github.com/YashChugani), [Yash Dharad](), and [Aashish Kumar Mandhyani]().
-Machine Learning logic, design, and full-stack integration by the developer  
+## 👥 Project Contributors
+
+**Team Lead:**
+Yash Chugani   *[GitHub]*(https://github.com/YashChugani) - *[LinkedIn]*(https://www.linkedin.com/in/yash-chugani)
+
+**Other Team Members:**
+Aashish Kumar Mandhyani   *[GitHub]*(https://github.com/Ashflames11) - *[LinkedIn]*(https://www.linkedin.com/in/aashish-mandhyani-2394b5261)
+Yash Dharad   *[GitHub]*(https://github.com/yash050205) - *[LinkedIn]*(https://www.linkedin.com/in/yash-dharad-49430928b)
+
+🛠 This project was developed under the Machine Learning course by SmartBridge.
