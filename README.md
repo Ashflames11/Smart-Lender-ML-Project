@@ -135,8 +135,11 @@ The application uses a **Random Forest Classifier**, chosen for its:
 ## 📄 License
 
 This project is for educational purposes only and protected under MIT License.
+
 © All rights reserved by the contributors. 
+
 Logos, trademarks, or external datasets referenced belong to their respective owners.
+
 🛠 This project was developed under the Machine Learning course by SmartBridge.
 
 
@@ -150,5 +153,3 @@ Yash Chugani   *[GitHub](https://github.com/YashChugani) • [LinkedIn](https://
 Aashish Kumar Mandhyani   *[GitHub](https://github.com/Ashflames11) • [LinkedIn](https://www.linkedin.com/in/aashish-mandhyani-2394b5261)*
 
 Yash Dharad   *[GitHub](https://github.com/yash050205) • [LinkedIn](https://www.linkedin.com/in/yash-dharad-49430928b)*
-
-🛠 This project was developed under the Machine Learning course by SmartBridge.
